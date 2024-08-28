@@ -1,0 +1,15 @@
+{
+
+  "scripts": {
+    "start": "node main"
+  },
+
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "web3": "^1.7.3"
+
+  }
+}
